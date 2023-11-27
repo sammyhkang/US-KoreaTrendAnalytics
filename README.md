@@ -12,10 +12,10 @@ This project aims to analyze market trends for Korean-related goods and services
 ### **Data Collection**
 Data was meticulously gathered from Google Trends, focusing on four major metropolitan states in the United States - known for their diverse demographics and potential market receptiveness. The primary objective was to analyze market trends for Korean-related products and services in these regions. The categories selected for this analysis were:
 
-- **Cuisine:** Exploring the interest in Korean cuisine, which includes traditional dishes and food items.
-- **Tourism:** Assessing the popularity and demand for Korean-themed tourism and travel.
-- **Culture:** Evaluating the influence and appeal of Korean culture, including entertainment and lifestyle aspects.
-- **Cosmetics:** Investigating the market trends related to Korean cosmetic products, a rapidly growing segment globally.
+- **Cuisine:** kbbq, korean food, kimchi, korean restaurant, soju
+- **Tourism:** korea flight, korea hotel, korea airbnb, korea vacation, korea tourism
+- **Culture:** korean drama, kpop, korean movie, learn korean, kdrama
+- **Cosmetics:** korean makeup, korean cosmetics, korean skincare, kpop makeup, korean beauty product
 
 ### **Data Preprocessing Steps**
 The data preprocessing phase was crucial in ensuring the accuracy and relevance of the analysis. The steps undertaken included:
