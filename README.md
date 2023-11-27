@@ -51,11 +51,19 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 <br>
 
 ## **Data Visualization and Analysis**
-Using Power BI, we visualized the data to identify trends and patterns. 
+Using Power BI, we conducted a detailed visualization of the data to unravel trends and interconnections. Our dashboard was meticulously designed to provide comprehensive insights into the interest levels across different states for Korean-related goods and services.
 
-**Key Insights:**
-- Texas emerged as a promising market, especially for Korean cosmetics and cuisine.
-- Positive correlation observed between interest in Korean cosmetics and cuisine in Texas.
+**Key Elements of the Power BI Dashboard:**
+- **Master Line Chart:** This chart displayed the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. It offered a dynamic view of how these interests evolved over time, providing a comparative analysis between states.
+- **Significant Change Indicator:** This feature highlighted the most notable changes in interest levels, pinpointing the specific category and week when these shifts occurred. It served as a quick reference to understand sudden surges or declines in consumer interest.
+- **Correlation Plot:** To explore the relationships between different categories, a correlation plot was included. This visual tool was instrumental in identifying how interests in Korean cosmetics correlated with other categories, such as cuisine, within each state.
+
+**Key Insights Gained:**
+- **Texas as a Focal Point:** The analysis revealed that Texas showed significant potential, particularly for Korean cosmetics and cuisine. This insight was pivotal in suggesting Texas as a prime target for focused marketing efforts.
+- **Inter-Category Relationships:** The correlation plot unveiled a positive correlation between interests in Korean cosmetics and cuisine in Texas, suggesting a combined marketing approach could be effective.
+
+Through these visualizations, we were able to transform raw data into actionable insights, laying the groundwork for data-driven marketing strategies. The Power BI dashboard not only enhanced our understanding of the current market dynamics but also provided a clear direction for future marketing initiatives targeting Korean goods and services in the United States.
+
 <br>
 
 ## **Model Building: LSTM Approach**
