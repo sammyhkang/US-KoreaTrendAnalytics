@@ -70,13 +70,33 @@ Through these visualizations, I was able to transform raw data into actionable i
 <br>
 
 ## **Model Building: LSTM Approach**
-An LSTM (Long Short-Term Memory) model was developed for forecasting future market trends. 
 
-**Steps Involved:**
-1. **Data Integration:** Unified multiple data sources for a comprehensive analysis.
-2. **LSTM Model Development:** Custom Sequential model with LSTM and Dense layers, suitable for time-series forecasting.
-3. **Training and Validation:** Split the data into training, validation, and test sets for robust model training.
-4. **Hyperparameter Tuning:** Optimized the learning rate and number of epochs.
+The core of this project was the development of an LSTM (Long Short-Term Memory) model, designed to forecast future market trends for Korean-related goods and services. This model was meticulously constructed using Keras and TensorFlow, with a focus on capturing the nuanced temporal patterns in the data.
+
+**Key Steps in Model Building:**
+
+1. **Data Integration:**
+   - Merged data from various sources to create a unified and comprehensive dataset for analysis.
+   - Ensured data consistency and alignment to facilitate effective model training.
+
+2. **LSTM Model Architecture:**
+   - Developed a custom Sequential model incorporating LSTM and Dense layers, tailored for handling time-series data.
+   - The LSTM layers were instrumental in capturing the sequential dependencies within the data.
+
+3. **Training and Validation Process:**
+   - Divided the dataset into training, validation, and test sets, following a systematic approach to prevent overfitting and underfitting.
+   - Employed the training and validation sets to fine-tune the model, while the test set provided an unbiased evaluation of the model's performance.
+
+4. **Hyperparameter Optimization:**
+   - Conducted hyperparameter tuning to optimize the model's learning rate and the number of epochs, ensuring peak performance.
+   - This step was critical in balancing the model's ability to learn from the data without losing generalization.
+
+5. **Model Training:**
+   - Trained the model over multiple epochs, monitoring key performance metrics like Mean Squared Error (MSE) and Mean Absolute Error (MAE).
+   - Utilized a systematic approach to model training, ensuring each iteration brought improvements in predictive accuracy.
+
+This phase was pivotal in translating raw data into actionable predictions. By harnessing the power of LSTM networks, I was able to build a model that not only understood the current market trends but could also predict future shifts with a significant degree of accuracy. This model served as a cornerstone for the project, enabling us to forecast market trends and make data-driven decisions. 
+
 <br>
 
 ## **Model Implementation and Deployment**
