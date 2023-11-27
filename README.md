@@ -4,16 +4,15 @@
 ## **Project Overview**
 
 ### **Objective and Scope**
-The primary objective of this project was to harness the power of data analytics to strategically identify and analyze potential markets for Korean-related goods and services within the United States. Targeting four major metropolitan states, our analysis aimed to uncover trends and preferences specific to Korean cuisine, tourism, culture, and especially cosmetics, which have been gaining global recognition.
+The primary objective of my project was to harness the power of data analytics to strategically identify and analyze potential markets for Korean-related goods and services within the United States. Targeting four major metropolitan states, my analysis aimed to uncover trends and preferences specific to Korean cuisine, tourism, culture, and especially cosmetics, which have been gaining global recognition.
 
-The scope of this project extended beyond mere data analysis. It sought to provide actionable insights that could directly influence marketing strategies and decision-making. By focusing on metropolitan areas with diverse demographics and consumer behaviors, our research intended to pinpoint specific markets where Korean products and services could thrive.
+The scope of my project extended beyond mere data analysis. It sought to provide actionable insights that could directly influence marketing strategies and decision-making. By focusing on metropolitan areas with diverse demographics and consumer behaviors, my research intended to pinpoint specific markets where Korean products and services could thrive.
 
 ### **Key Business Questions Answered:**
-- **Market Potential Assessment:** Which metropolitan state in the USA is the most promising for Korean goods and services, with an emphasis on the cosmetics industry?
-- **Trend Analysis:** What are the prevailing trends and consumer interests in Korean culture, cuisine, and tourism across these states?
-- **Correlation Insights:** How do the interests in various Korean-related categories correlate with each other, and what does this imply for integrated marketing strategies?
-
-Through this project, we aimed not only to gather data but also to translate it into meaningful, market-specific strategies. The idea was to move beyond traditional analytics and offer a holistic view of the potential for Korean goods and services in the U.S. market, thereby enabling more informed and targeted marketing initiatives.
+**Market Potential Assessment:** Which metropolitan state in the USA is the most promising for Korean goods and services, with an emphasis on the cosmetics industry?
+**Trend Analysis:** What are the prevailing trends and consumer interests in Korean culture, cuisine, and tourism across these states?
+**Correlation Insights:** How do the interests in various Korean-related categories correlate with each other, and what does this imply for integrated marketing strategies?
+Through this project, I aimed not only to gather data but also to translate it into meaningful, market-specific strategies. The idea was to move beyond traditional analytics and offer a holistic view of the potential for Korean goods and services in the U.S. market, thereby enabling more informed and targeted marketing initiatives.
 <br>
 <br>
 
