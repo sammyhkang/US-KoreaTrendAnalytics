@@ -1,7 +1,15 @@
 # Market Trend Analysis for Korean Products in the USA
+
+1. Project Overview
+2. Data Collection and Preprocessing
+3. Data Visualization and Analysis
+4. Model Building: LSTM Approach
+5. Model Implementation and Deployment
+6. Results and Business Impact
+7. Conclusion
 <br>
 
-## **Project Overview**
+## **1. Project Overview**
 
 ### **Objective and Scope**
 The primary objective of my project was to harness the power of data analytics to strategically identify and analyze potential markets for Korean-related goods and services within the United States. Targeting four major metropolitan states, my analysis aimed to uncover trends and preferences specific to Korean cuisine, tourism, culture, and especially cosmetics, which have been gaining global recognition.
@@ -18,7 +26,7 @@ Through this project, I aimed not only to gather data but also to translate it i
 <br>
 <br>
 
-## **Data Collection and Preprocessing**
+## **2. Data Collection and Preprocessing**
 
 ### **Data Collection**
 Data was meticulously gathered from Google Trends, focusing on four major metropolitan states in the United States - known for their diverse demographics and potential market receptiveness. The primary objective was to analyze market trends for Korean-related products and services in these regions. The categories selected for this analysis were:
@@ -52,7 +60,7 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 <br>
 <br>
 
-## **Data Visualization and Analysis**
+## **3. Data Visualization and Analysis**
 Using Power BI, I conducted a detailed visualization of the data to unravel trends and interconnections. My dashboard was meticulously designed to provide comprehensive insights into the interest levels across different states for Korean-related goods and services.
 
 **Key Elements of the Power BI Dashboard:**
@@ -69,7 +77,7 @@ Through these visualizations, I was able to transform raw data into actionable i
 
 <br>
 
-## **Model Building: LSTM Approach**
+## **4. Model Building: LSTM Approach**
 
 The core of this project was the development of an LSTM (Long Short-Term Memory) model, designed to forecast future market trends for Korean-related goods and services. This model was meticulously constructed using Keras and TensorFlow, with a focus on capturing the nuanced temporal patterns in the data.
 
@@ -99,7 +107,7 @@ This phase was pivotal in translating raw data into actionable predictions. By h
 
 <br>
 
-## **Model Implementation and Deployment**
+## **5. Model Implementation and Deployment**
 
 In this final phase, I implemented and deployed the LSTM model to predict market trends using a Python script integrated with pytrends for dynamic data collection from Google Trends.
 
@@ -124,7 +132,7 @@ This phase showcased my ability to bring a data science project from concept to 
 
 <br>
 
-## **Results and Business Impact**
+## **6. Results and Business Impact**
 
 The model's predictions provide insightful foresights into market trends, crucial for developing targeted marketing strategies in Texas for Korean products.
 
@@ -133,7 +141,7 @@ The model's predictions provide insightful foresights into market trends, crucia
 - Highlighted the significance of Texas as a potential market for expansion.
 <br>
 
-## **Conclusion and Future Work:**
+## **7. Conclusion and Future Work:**
 
 The project successfully demonstrated the potential of data-driven approaches in market analysis. Future work includes expanding the analysis to other states and refining the model for even more accurate predictions.
 
