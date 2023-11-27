@@ -5,6 +5,7 @@ This project aims to analyze market trends for Korean-related goods and services
 
 **Key Business Question Answered:**
 - Which metropolitan state in the USA shows the most promising market potential for Korean goods and services, particularly cosmetics?
+- 
 
 ## **Data Collection and Preprocessing**
 
@@ -39,6 +40,7 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 
 
 
+
 ## **Data Visualization and Analysis**
 Using Power BI, we visualized the data to identify trends and patterns. 
 
@@ -55,6 +57,7 @@ An LSTM (Long Short-Term Memory) model was developed for forecasting future mark
 3. **Training and Validation:** Split the data into training, validation, and test sets for robust model training.
 4. **Hyperparameter Tuning:** Optimized the learning rate and number of epochs.
 
+
 ## **Model Implementation and Deployment**
 Implemented a Python script using pytrends to fetch data automatically from Google Trends.
 
@@ -63,6 +66,7 @@ Implemented a Python script using pytrends to fetch data automatically from Goog
 - **Preprocessing and Windowing:** Prepared the data specifically for LSTM input.
 - **Model Deployment:** Utilized the pre-trained LSTM model to make predictions.
 - **Visualization of Predictions:** Displayed both historical data and future predictions graphically.
+
 
 ## **Results and Business Impact**
 The model's predictions provide insightful foresights into market trends, crucial for developing targeted marketing strategies in Texas for Korean products.
