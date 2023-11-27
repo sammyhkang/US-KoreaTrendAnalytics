@@ -78,23 +78,30 @@ An LSTM (Long Short-Term Memory) model was developed for forecasting future mark
 3. **Training and Validation:** Split the data into training, validation, and test sets for robust model training.
 4. **Hyperparameter Tuning:** Optimized the learning rate and number of epochs.
 <br>
-## **Model Implementation and Deployment**
+
+## **Model Implementation and Deployment:**
+
 Implemented a Python script using pytrends to fetch data automatically from Google Trends.
 
 **Key Implementation Aspects:**
+
 - **Automated Data Fetching:** Using pytrends for up-to-date Google Trends data.
 - **Preprocessing and Windowing:** Prepared the data specifically for LSTM input.
 - **Model Deployment:** Utilized the pre-trained LSTM model to make predictions.
 - **Visualization of Predictions:** Displayed both historical data and future predictions graphically.
 <br>
+
 ## **Results and Business Impact**
+
 The model's predictions provide insightful foresights into market trends, crucial for developing targeted marketing strategies in Texas for Korean products.
 
 **Strategic Value:**
 - Enabled data-driven decision-making for marketing Korean goods.
 - Highlighted the significance of Texas as a potential market for expansion.
 <br>
-## **Conclusion and Future Work**
+
+## **Conclusion and Future Work:**
+
 The project successfully demonstrated the potential of data-driven approaches in market analysis. Future work includes expanding the analysis to other states and refining the model for even more accurate predictions.
 
 **Future Directions:**
