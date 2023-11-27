@@ -14,7 +14,8 @@ The scope of this project extended beyond mere data analysis. It sought to provi
 - **Correlation Insights:** How do the interests in various Korean-related categories correlate with each other, and what does this imply for integrated marketing strategies?
 
 Through this project, we aimed not only to gather data but also to translate it into meaningful, market-specific strategies. The idea was to move beyond traditional analytics and offer a holistic view of the potential for Korean goods and services in the U.S. market, thereby enabling more informed and targeted marketing initiatives.
-
+<br>
+<br>
 
 ## **Data Collection and Preprocessing**
 
@@ -46,9 +47,8 @@ The data preprocessing phase was crucial in ensuring the accuracy and relevance 
    - The data was formatted to fit the requirements of the subsequent analysis and modeling phases, ensuring smooth integration into the data visualization and machine learning pipelines.
 
 Through these detailed and methodical preprocessing steps, the data was transformed into a format suitable for deep analysis, setting the foundation for insightful visualizations and predictive modeling.
-
-
-
+<br>
+<br>
 
 ## **Data Visualization and Analysis**
 Using Power BI, we visualized the data to identify trends and patterns. 
@@ -56,6 +56,7 @@ Using Power BI, we visualized the data to identify trends and patterns.
 **Key Insights:**
 - Texas emerged as a promising market, especially for Korean cosmetics and cuisine.
 - Positive correlation observed between interest in Korean cosmetics and cuisine in Texas.
+<br>
 
 ## **Model Building: LSTM Approach**
 An LSTM (Long Short-Term Memory) model was developed for forecasting future market trends. 
@@ -65,8 +66,7 @@ An LSTM (Long Short-Term Memory) model was developed for forecasting future mark
 2. **LSTM Model Development:** Custom Sequential model with LSTM and Dense layers, suitable for time-series forecasting.
 3. **Training and Validation:** Split the data into training, validation, and test sets for robust model training.
 4. **Hyperparameter Tuning:** Optimized the learning rate and number of epochs.
-
-
+<br>
 ## **Model Implementation and Deployment**
 Implemented a Python script using pytrends to fetch data automatically from Google Trends.
 
@@ -75,15 +75,14 @@ Implemented a Python script using pytrends to fetch data automatically from Goog
 - **Preprocessing and Windowing:** Prepared the data specifically for LSTM input.
 - **Model Deployment:** Utilized the pre-trained LSTM model to make predictions.
 - **Visualization of Predictions:** Displayed both historical data and future predictions graphically.
-
-
+<br>
 ## **Results and Business Impact**
 The model's predictions provide insightful foresights into market trends, crucial for developing targeted marketing strategies in Texas for Korean products.
 
 **Strategic Value:**
 - Enabled data-driven decision-making for marketing Korean goods.
 - Highlighted the significance of Texas as a potential market for expansion.
-
+<br>
 ## **Conclusion and Future Work**
 The project successfully demonstrated the potential of data-driven approaches in market analysis. Future work includes expanding the analysis to other states and refining the model for even more accurate predictions.
 
