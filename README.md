@@ -48,22 +48,24 @@ The data preprocessing phase was crucial in ensuring the accuracy and relevance 
    - The data was formatted to fit the requirements of the subsequent analysis and modeling phases, ensuring smooth integration into the data visualization and machine learning pipelines.
 
 Through these detailed and methodical preprocessing steps, the data was transformed into a format suitable for deep analysis, setting the foundation for insightful visualizations and predictive modeling.
+
 <br>
 <br>
 
 ## **Data Visualization and Analysis**
-Using Power BI, we conducted a detailed visualization of the data to unravel trends and interconnections. Our dashboard was meticulously designed to provide comprehensive insights into the interest levels across different states for Korean-related goods and services.
+Using Power BI, I conducted a detailed visualization of the data to unravel trends and interconnections. My dashboard was meticulously designed to provide comprehensive insights into the interest levels across different states for Korean-related goods and services.
 
 **Key Elements of the Power BI Dashboard:**
-- **Master Line Chart:** This chart displayed the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. It offered a dynamic view of how these interests evolved over time, providing a comparative analysis between states.
-- **Significant Change Indicator:** This feature highlighted the most notable changes in interest levels, pinpointing the specific category and week when these shifts occurred. It served as a quick reference to understand sudden surges or declines in consumer interest.
+- **Master Line Chart:** Displayed the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. It offered a dynamic view of how these interests evolved over time, providing a comparative analysis between states.
+- **Significant Change Indicator:** Highlighted the most notable changes in interest levels, pinpointing the specific category and week when these shifts occurred. It served as a quick reference to understand sudden surges or declines in consumer interest.
 - **Correlation Plot:** To explore the relationships between different categories, a correlation plot was included. This visual tool was instrumental in identifying how interests in Korean cosmetics correlated with other categories, such as cuisine, within each state.
 
 **Key Insights Gained:**
 - **Texas as a Focal Point:** The analysis revealed that Texas showed significant potential, particularly for Korean cosmetics and cuisine. This insight was pivotal in suggesting Texas as a prime target for focused marketing efforts.
 - **Inter-Category Relationships:** The correlation plot unveiled a positive correlation between interests in Korean cosmetics and cuisine in Texas, suggesting a combined marketing approach could be effective.
 
-Through these visualizations, we were able to transform raw data into actionable insights, laying the groundwork for data-driven marketing strategies. The Power BI dashboard not only enhanced our understanding of the current market dynamics but also provided a clear direction for future marketing initiatives targeting Korean goods and services in the United States.
+Through these visualizations, I was able to transform raw data into actionable insights, laying the groundwork for data-driven marketing strategies. The Power BI dashboard not only enhanced my understanding of the current market dynamics but also provided a clear direction for future marketing initiatives targeting Korean goods and services in the United States.
+
 
 <br>
 
