@@ -79,16 +79,29 @@ An LSTM (Long Short-Term Memory) model was developed for forecasting future mark
 4. **Hyperparameter Tuning:** Optimized the learning rate and number of epochs.
 <br>
 
-## **Model Implementation and Deployment:**
+## **Model Implementation and Deployment**
 
-Implemented a Python script using pytrends to fetch data automatically from Google Trends.
+In this final phase, I implemented and deployed the LSTM model to predict market trends using a Python script integrated with pytrends for dynamic data collection from Google Trends.
 
-**Key Implementation Aspects:**
+**Key Implementation Highlights:**
 
-- **Automated Data Fetching:** Using pytrends for up-to-date Google Trends data.
-- **Preprocessing and Windowing:** Prepared the data specifically for LSTM input.
-- **Model Deployment:** Utilized the pre-trained LSTM model to make predictions.
-- **Visualization of Predictions:** Displayed both historical data and future predictions graphically.
+1. **Automated Data Retrieval:**
+   - Implemented a Python script using pytrends to automate the collection of the latest Google Trends data.
+
+2. **Data Preprocessing for LSTM:**
+   - Structured the data specifically for LSTM input, using a windowed approach to align with time-series analysis.
+
+3. **Model Deployment:**
+   - Loaded the pre-trained LSTM model, leveraging Keras for time-series forecasting.
+
+4. **Visualization of Predictions:**
+   - Employed Matplotlib to visually represent both past trends and future predictions.
+
+5. **GitHub Repository Management:**
+   - Maintained a comprehensive GitHub repository documenting the project, including detailed Jupyter notebooks.
+
+This phase showcased my ability to bring a data science project from concept to a practical application, emphasizing operational effectiveness and user-centric presentation. My work in this stage was focused on ensuring that the model's insights were both accurate and accessible, making it a valuable tool for understanding market trends in Korean-related goods and services.
+
 <br>
 
 ## **Results and Business Impact**
