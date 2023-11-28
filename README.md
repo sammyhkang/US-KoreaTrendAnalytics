@@ -116,6 +116,9 @@ The core of this project was the development of an LSTM (Long Short-Term Memory)
 
 This phase was pivotal in translating raw data into actionable predictions. By harnessing the power of LSTM networks, I was able to build a model that not only understood the current market trends but could also predict future shifts with a significant degree of accuracy. This model served as a cornerstone for the project, enabling us to forecast market trends and make data-driven decisions. 
 
+![image](https://github.com/sammyhkang/US-KoreaTrendAnalytics/assets/120065575/c4e6cd2a-bd3e-47aa-86c6-f22b7b021167)
+
+
 <br>
 
 ## **5. Model Implementation and Deployment**
