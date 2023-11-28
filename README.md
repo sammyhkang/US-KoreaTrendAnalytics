@@ -144,6 +144,9 @@ In this final phase, I implemented and deployed the LSTM model to predict market
 
 This phase showcased my ability to bring a data science project from concept to a practical application, emphasizing operational effectiveness and user-centric presentation. My work in this stage was focused on ensuring that the model's insights were both accurate and accessible, making it a valuable tool for understanding market trends in Korean-related goods and services.
 
+![image](https://github.com/sammyhkang/US-KoreaTrendAnalytics/assets/120065575/3100250d-7e67-4287-abf2-c229959cc076)
+
+
 <br>
 
 ## **6. Results and Business Impact**
