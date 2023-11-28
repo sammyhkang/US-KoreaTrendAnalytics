@@ -61,18 +61,23 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 <br>
 
 ## **3. Data Visualization and Analysis**
-Using Power BI, I conducted a detailed visualization of the data to unravel trends and interconnections. My dashboard was meticulously designed to provide comprehensive insights into the interest levels across different states for Korean-related goods and services.
+In this project, I used Power BI to conduct a comprehensive data visualization and analysis. The Power BI dashboard was intricately designed to provide deep insights into the market interests across different states in the U.S., specifically focusing on Korean-related goods and services.
 
-**Key Elements of the Power BI Dashboard:**
-- **Master Line Chart:** Displayed the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. It offered a dynamic view of how these interests evolved over time, providing a comparative analysis between states.
-- **Significant Change Indicator:** Highlighted the most notable changes in interest levels, pinpointing the specific category and week when these shifts occurred. It served as a quick reference to understand sudden surges or declines in consumer interest.
-- **Correlation Plot:** To explore the relationships between different categories, a correlation plot was included. This visual tool was instrumental in identifying how interests in Korean cosmetics correlated with other categories, such as cuisine, within each state.
+**Key Elements and DAX Measures in the Power BI Dashboard:**
+
+Master Line Chart: I implemented this chart to display the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. This chart was vital for observing how interests evolved over time and offered a comparative state-wise analysis. I used DAX measures like AbsoluteChangeCosmetics to calculate the week-over-week change in interest for cosmetics.
+
+Significant Change Indicator: This feature was designed to highlight the most notable shifts in interest levels. I used the TopChangeCosmetics and TopWeekCosmetics DAX measures to identify and display the week with the highest change in interest for cosmetics, serving as an indicator of sudden market movements.
+
+Correlation Plot: A correlation plot was included to examine the relationships between different categories. It utilized DAX measures like DynamicXAxis and DynamicYAxis to dynamically change the values displayed based on the selected categories. This plot was instrumental in identifying the interrelationships, such as the correlation between cosmetics and cuisine within each state.
 
 **Key Insights Gained:**
-- **Texas as a Focal Point:** The analysis revealed that Texas showed significant potential, particularly for Korean cosmetics and cuisine. This insight was pivotal in suggesting Texas as a prime target for focused marketing efforts.
-- **Inter-Category Relationships:** The correlation plot unveiled a positive correlation between interests in Korean cosmetics and cuisine in Texas, suggesting a combined marketing approach could be effective.
 
-Through these visualizations, I was able to transform raw data into actionable insights, laying the groundwork for data-driven marketing strategies. The Power BI dashboard not only enhanced my understanding of the current market dynamics but also provided a clear direction for future marketing initiatives targeting Korean goods and services in the United States.
+Texas as a Key Market: My analysis showed Texas emerging as a significant market for Korean cosmetics and cuisine, indicated by substantial interest growth. This was supported by the Cosmetics Avg DAX measure, which provided a nuanced average interest level in cosmetics, factoring in multiple related search terms.
+
+Inter-Category Relationships: The dashboard revealed a positive correlation between interests in Korean cosmetics and cuisine in Texas. This insight suggested the effectiveness of a combined marketing approach for these categories.
+
+By deploying these advanced DAX measures and visualizations, I was able to transform complex data sets into actionable insights. These insights not only provided a clear understanding of current market dynamics but also informed future marketing strategies for targeting Korean goods and services in the U.S. market.
 
 
 <br>
