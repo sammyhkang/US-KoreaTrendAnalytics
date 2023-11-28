@@ -63,7 +63,8 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 ## **3. Data Visualization and Analysis**
 In this project, I used Power BI to conduct a comprehensive data visualization and analysis. The Power BI dashboard was intricately designed to provide deep insights into the market interests across different states in the U.S., specifically focusing on Korean-related goods and services.
 
-![](images/Data Visualization - Dashboard.png)
+![image](https://github.com/sammyhkang/US-KoreaTrendAnalytics/assets/120065575/eaa3343c-d14f-42d9-9e2b-67059e7f2604)
+
 
 **Key Elements and DAX Measures in the Power BI Dashboard:**
 
