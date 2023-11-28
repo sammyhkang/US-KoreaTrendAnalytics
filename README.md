@@ -63,6 +63,8 @@ Through these detailed and methodical preprocessing steps, the data was transfor
 ## **3. Data Visualization and Analysis**
 In this project, I used Power BI to conduct a comprehensive data visualization and analysis. The Power BI dashboard was intricately designed to provide deep insights into the market interests across different states in the U.S., specifically focusing on Korean-related goods and services.
 
+![Dashboard for the data preprocessing stage](images/Data Visualization - Dashboard.png)
+
 **Key Elements and DAX Measures in the Power BI Dashboard:**
 
 Master Line Chart: I implemented this chart to display the absolute change in interest levels across all four categories (cuisine, tourism, culture, and cosmetics), segmented by state. This chart was vital for observing how interests evolved over time and offered a comparative state-wise analysis. I used DAX measures like AbsoluteChangeCosmetics to calculate the week-over-week change in interest for cosmetics.
