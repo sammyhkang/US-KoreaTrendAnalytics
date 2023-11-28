@@ -74,6 +74,9 @@ Significant Change Indicator: This feature was designed to highlight the most no
 
 Correlation Plot: A correlation plot was included to examine the relationships between different categories. It utilized DAX measures like DynamicXAxis and DynamicYAxis to dynamically change the values displayed based on the selected categories. This plot was instrumental in identifying the interrelationships, such as the correlation between cosmetics and cuisine within each state.
 
+![image](https://github.com/sammyhkang/US-KoreaTrendAnalytics/assets/120065575/5f0295f9-42be-4fef-b1ae-0da81f39e2e1)
+
+
 **Key Insights Gained:**
 
 Texas as a Key Market: My analysis showed Texas emerging as a significant market for Korean cosmetics and cuisine, indicated by substantial interest growth. This was supported by the Cosmetics Avg DAX measure, which provided a nuanced average interest level in cosmetics, factoring in multiple related search terms.
